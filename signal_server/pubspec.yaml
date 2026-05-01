@@ -1,0 +1,9 @@
+name: taktak_signal_server
+description: WebSocket signaling for TakTak WebRTC transfers.
+publish_to: none
+
+environment:
+  sdk: ^3.11.3
+
+dependencies:
+  web_socket_channel: ^3.0.3
